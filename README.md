@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aayushipri
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web sockets
 - 💞️ I’m looking to collaborate on git hub
 - 📫 How to reach me 
 
